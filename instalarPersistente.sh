@@ -41,6 +41,7 @@ mv fastab /mnt/etc/
 chattr +i /mnt/boot/extlinux.conf
 # Atualiza os arquivos "editados" e reinicia tudo
 reset 
-echo -e "\033[01;32m Tudo pronto, agora irei reiniciar com nome de Zero na tela de boot \e[01;00m "
 
+echo -e "\033[01;32m Tudo pronto, \n agora a vm reiniciará com nome de [Alpine Linux] na tela de boot \e[01;00m \n \n"
+sleep 2
 reboot
