@@ -3,8 +3,8 @@ Script feito para a instalação persistente do alpine linux no [vmConsole](http
 só pra adiantar os passos.
 ## Comandos
 Para rodar você pode usar
-```bash instalarPersistente.sh ``` <br>
-Caso preferir use o ``` chmod +x instalarPersistente.sh && ./instalarPersistente.sh ``` 
+```bash instalarPersistente ``` <br>
+Caso preferir use o ``` chmod +x instalarPersistente && ./instalarPersistente ``` 
 
 ### Adendos
 Me baseei em 2 lugares no
