@@ -1,9 +1,9 @@
 # Para que serve
 Se chegou aqui, é de se supor que esteja tentando usar o vmConsole e acaba de perceber que toda vez que fecha o aplicativo ele não reinicia <br>
 e você perde todo o progresso que havia feito, mas pensando nisso existem processos que fixarão a sua VM(máquina virtual), só que é tanta<br>
-coisa que resolvi criar um script que adianta todo esse processo basta você digitar estes comandos e aguardar alguns minutos que tudo estará resolvido<br>
-Script feito para a instalação persistente do alpine linux no [vmConsole](https://play.google.com/store/apps/details?id=sylirre.vmconsole) <br>
-só pra adiantar os passos.
+coisa que resolvi criar um script que adianta todo esse processo basta você digitar estes comandos e aguardar alguns minutos que tudo estará resolvido.<br>
+>Script feito para a instalação persistente do alpine linux no [vmConsole](https://play.google.com/store/apps/details?id=sylirre.vmconsole) <br>
+>só pra adiantar os passos.
 ## Comandos
 No Alpine Linux em vez de ```apt install```
 se usa o comando ``` apk add ``` 
