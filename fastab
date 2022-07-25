@@ -1,4 +1,0 @@
-UUID=aa17b810-b5a4-40e6-861a-8b28f91cc3f9       /       ext4    rw,relatime 0 1
-UUID=60be7691-1fd4-4a91-b9a1-a1a5ed8fb24f       /boot   ext4    rw,relatime 0 2
-/dev/cdrom      /media/cdrom    iso9660 noauto,ro 0 0
-host_storage /media/host 9p trans=virtio,msize=262144 0 0
