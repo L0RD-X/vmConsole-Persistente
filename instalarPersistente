@@ -26,16 +26,16 @@ sleep 1
 
 rm -rf /mnt/boot/extlinux.conf #Remove extlinux e add
 
-mv extlinux.conf /mnt/boot/ 
+mv subs/extlinux.conf /mnt/boot/ 
 
 rm -rf /mnt/etc/update-extlinux.conf
 #Remove e Cria o update
-mv update-extlinux.conf /mnt/etc/
+mv subs/update-extlinux.conf /mnt/etc/
 
 rm -rf /mnt/etc/fstab
 
 #Remove e Recria o fstab
-mv fastab /mnt/etc/
+mv subs/fastab /mnt/etc/
 
 
 chattr +i /mnt/boot/extlinux.conf
